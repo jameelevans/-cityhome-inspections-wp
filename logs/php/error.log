@@ -1,0 +1,740 @@
+[17-Apr-2019 17:15:49 UTC] PHP Warning:  require(/app/public/wp-content/themes/cityhome-inspections/inc/like-route.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/cityhome-inspections/functions.php on line 10
+[17-Apr-2019 17:15:49 UTC] PHP Warning:  require(/app/public/wp-content/themes/cityhome-inspections/inc/like-route.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/cityhome-inspections/functions.php on line 10
+[17-Apr-2019 17:15:49 UTC] PHP Warning:  require(/app/public/wp-content/themes/cityhome-inspections/inc/like-route.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/cityhome-inspections/functions.php on line 10
+[17-Apr-2019 17:15:49 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/cityhome-inspections/inc/like-route.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/cityhome-inspections/functions.php on line 10
+[17-Apr-2019 17:15:49 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/cityhome-inspections/inc/like-route.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/cityhome-inspections/functions.php on line 10
+[17-Apr-2019 17:15:49 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/cityhome-inspections/inc/like-route.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/cityhome-inspections/functions.php on line 10
+[17-Apr-2019 18:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[18-Apr-2019 17:11:26 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 160
+[18-Apr-2019 17:11:26 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 384
+[18-Apr-2019 17:11:26 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 569
+[19-Apr-2019 14:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 14:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 14:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[19-Apr-2019 15:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[19-Apr-2019 15:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[19-Apr-2019 15:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 15:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 15:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 15:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[19-Apr-2019 15:26:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 15:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 15:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 15:37:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/mu-plugins/university-post-type.php on line 16
+[19-Apr-2019 15:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in /app/public/wp-includes/rewrite.php:173
+Stack trace:
+#0 /app/public/wp-includes/class-wp-post-type.php(543): add_rewrite_tag('%slide%', '([^/]+)', 'slide=')
+#1 /app/public/wp-includes/post.php(1360): WP_Post_Type->add_rewrite_rules()
+#2 /app/public/wp-content/mu-plugins/university-post-type.php(4): register_post_type('slide', Array)
+#3 /app/public/wp-settings.php(278): include_once('/app/public/wp-...')
+#4 /app/public/wp-config.php(80): require_once('/app/public/wp-...')
+#5 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#6 /app/public/wp-admin/admin.php(34): require_once('/app/public/wp-...')
+#7 /app/public/wp-admin/post-new.php(10): require_once('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/rewrite.php on line 173
+[19-Apr-2019 15:39:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in /app/public/wp-includes/rewrite.php:173
+Stack trace:
+#0 /app/public/wp-includes/class-wp-post-type.php(543): add_rewrite_tag('%slide%', '([^/]+)', 'slide=')
+#1 /app/public/wp-includes/post.php(1360): WP_Post_Type->add_rewrite_rules()
+#2 /app/public/wp-content/mu-plugins/custom-post-types.php(4): register_post_type('slide', Array)
+#3 /app/public/wp-settings.php(278): include_once('/app/public/wp-...')
+#4 /app/public/wp-config.php(80): require_once('/app/public/wp-...')
+#5 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#6 /app/public/wp-admin/admin.php(34): require_once('/app/public/wp-...')
+#7 /app/public/wp-admin/post-new.php(10): require_once('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/rewrite.php on line 173
+[19-Apr-2019 15:39:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in /app/public/wp-includes/rewrite.php:173
+Stack trace:
+#0 /app/public/wp-includes/class-wp-post-type.php(543): add_rewrite_tag('%slide%', '([^/]+)', 'slide=')
+#1 /app/public/wp-includes/post.php(1360): WP_Post_Type->add_rewrite_rules()
+#2 /app/public/wp-content/mu-plugins/custom-post-types.php(4): register_post_type('slide', Array)
+#3 /app/public/wp-settings.php(278): include_once('/app/public/wp-...')
+#4 /app/public/wp-config.php(80): require_once('/app/public/wp-...')
+#5 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/rewrite.php on line 173
+[19-Apr-2019 15:39:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in /app/public/wp-includes/rewrite.php:173
+Stack trace:
+#0 /app/public/wp-includes/class-wp-post-type.php(543): add_rewrite_tag('%slide%', '([^/]+)', 'slide=')
+#1 /app/public/wp-includes/post.php(1360): WP_Post_Type->add_rewrite_rules()
+#2 /app/public/wp-content/mu-plugins/custom-post-types.php(4): register_post_type('slide', Array)
+#3 /app/public/wp-settings.php(278): include_once('/app/public/wp-...')
+#4 /app/public/wp-config.php(80): require_once('/app/public/wp-...')
+#5 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/rewrite.php on line 173
+[19-Apr-2019 15:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 18:25:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 18:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[19-Apr-2019 19:23:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/cityhome-inspections/front-page.php on line 13
+[19-Apr-2019 19:26:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/cityhome-inspections/front-page.php on line 13
+[19-Apr-2019 19:26:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/cityhome-inspections/front-page.php on line 13
+[19-Apr-2019 20:28:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/cityhome-inspections/front-page.php on line 20
+[19-Apr-2019 20:29:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/cityhome-inspections/front-page.php on line 20
+[21-Apr-2019 20:34:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 20:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 20:36:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 20:36:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 20:37:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 20:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 20:39:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 20:50:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 21:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 21:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 21:15:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[21-Apr-2019 21:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 01:46:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 01:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 01:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 01:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 01:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 01:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 01:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:02:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:04:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:04:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:04:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:04:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:21:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:22:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:22:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 02:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 03:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 03:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[22-Apr-2019 03:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 3
+[23-Apr-2019 00:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 00:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 00:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 00:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 02:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 02:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 02:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 04:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 04:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 04:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[23-Apr-2019 04:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[24-Apr-2019 15:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/single.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/single.php on line 7
+[24-Apr-2019 15:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/single.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/single.php on line 7
+[24-Apr-2019 15:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/single.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/single.php on line 7
+[24-Apr-2019 16:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[24-Apr-2019 16:08:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[24-Apr-2019 16:09:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/page.php on line 7
+[24-Apr-2019 17:55:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/single.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/single.php on line 7
+[24-Apr-2019 18:19:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/cityhome-inspections/single.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/single.php on line 7
+[27-Apr-2019 04:04:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/cityhome-inspections/header.php on line 19
+[29-Apr-2019 03:28:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/plugins/cityhome-inspect-form/cityhome-inspect-form.php on line 15
+[29-Apr-2019 03:28:59 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'WPLANG' LIMIT 1 made by include('phar:///usr/local/bin/wp/php/boot-phar.php'), include('phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), include_once('/plugins/advanced-custom-fields/acf.php'), acf, ACF->initialize, __, translate, get_translations_for_domain, _load_textdomain_just_in_time, _get_path_to_translation, _get_path_to_translation_from_lang_dir, determine_locale, get_locale, get_option
+[29-Apr-2019 03:28:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/plugins/cityhome-inspect-form/cityhome-inspect-form.php on line 15
+[29-Apr-2019 03:32:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/plugins/cityhome-inspect-form/cityhome-inspect-form.php on line 15
+[29-Apr-2019 04:20:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-content/plugins/cityhome-inspect-form/cityhome-inspect-form.php on line 103
+[29-Apr-2019 04:23:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1251
+[29-Apr-2019 04:23:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1254
+[29-Apr-2019 04:23:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1251
+[29-Apr-2019 04:23:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1254
+[29-Apr-2019 04:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1251
+[29-Apr-2019 04:23:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1254
+[29-Apr-2019 04:23:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1251
+[29-Apr-2019 04:23:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5520) in /app/public/wp-includes/pluggable.php on line 1254
+[03-May-2019 01:55:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=16512 in /app/public/wp-includes/wp-db.php on line 2007
+[26-Dec-2019 15:18:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in phar:///usr/local/bin/wp/vendor/wp-cli/widget-command/src/Sidebar_Command.php on line 80
+[26-Dec-2019 15:18:22 UTC] PHP Parse error:  syntax error, unexpected '%', expecting identifier (T_STRING) in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 47
+[26-Dec-2019 15:18:22 UTC] PHP Parse error:  syntax error, unexpected '%', expecting identifier (T_STRING) in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 47
+[14-Feb-2020 04:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/cityhome-inspections/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 1
+[14-Feb-2020 04:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/cityhome-inspections/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/cityhome-inspections/index.php on line 1

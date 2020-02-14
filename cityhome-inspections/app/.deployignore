@@ -1,0 +1,15 @@
+app/public/wp-content/themes/index.php
+app/public/wp-content/mu-plugins/**
+app/public/wp-content/plugins/**
+app/public/wp-content/upgrade/**
+app/public/wp-content/uploads/**
+app/public/wp-admin/**
+app/public/wp-includes/**
+app/public/.gitignore
+app/public/*.php
+app/public/*.html
+app/public/*.txt
+app/sql/**
+**/*.DS_Store
+logs/**
+local-site.json

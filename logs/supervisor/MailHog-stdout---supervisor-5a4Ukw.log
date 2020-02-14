@@ -1,0 +1,124 @@
+[HTTP] Binding to address: :1080
+Creating API v1 with WebPath: 
+Creating API v2 with WebPath: 
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "4xbacMPchyGKk1vPibOH0lO12h0eskQg0uiTtgsOf-M=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "2f6519715f58",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Type": [
+        "text/plain; charset=UTF-8"
+      ],
+      "Date": [
+        "Fri, 14 Feb 2020 03:55:53 +0000"
+      ],
+      "From": [
+        "WordPress \u003cwordpress@city-home-inspections.local\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003cd053934eebccd5b9e45daa08f18b2f7c@city-home-inspections.local\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id 4xbacMPchyGKk1vPibOH0lO12h0eskQg0uiTtgsOf-M=@mailhog.example; Fri, 14 Feb 2020 03:55:53 +0000"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@2f6519715f58\u003e"
+      ],
+      "Subject": [
+        "[City Home Inspections] Your site has updated to WordPress 5.1.4"
+      ],
+      "To": [
+        "dev-email@flywheel.local"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "Howdy! Your site at http://city-home-inspections.local has been updated automatically to WordPress 5.1.4.\r\n\r\nFor more on version 5.1.4, see the About WordPress screen:\r\nhttp://city-home-inspections.local/wp-admin/about.php\r\n\r\nWordPress 5.3.2 is also now available. Updating is easy and only takes a few moments:\r\nhttp://city-home-inspections.local/wp-admin/update-core.php\r\n\r\nIf you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.\r\nhttps://wordpress.org/support/\r\n\r\nKeeping your site updated is important for security. It also makes the internet a safer place for you and your readers.\r\n\r\nThe WordPress Team\r\n",
+    "Size": 1132,
+    "MIME": null
+  },
+  "Created": "2020-02-14T03:55:53.869222855Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@2f6519715f58",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: dev-email@flywheel.local\r\nSubject: [City Home Inspections] Your site has updated to WordPress 5.1.4\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Fri, 14 Feb 2020 03:55:53 +0000\r\nFrom: WordPress \u003cwordpress@city-home-inspections.local\u003e\r\nMessage-ID: \u003cd053934eebccd5b9e45daa08f18b2f7c@city-home-inspections.local\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nHowdy! Your site at http://city-home-inspections.local has been updated automatically to WordPress 5.1.4.\r\n\r\nFor more on version 5.1.4, see the About WordPress screen:\r\nhttp://city-home-inspections.local/wp-admin/about.php\r\n\r\nWordPress 5.3.2 is also now available. Updating is easy and only takes a few moments:\r\nhttp://city-home-inspections.local/wp-admin/update-core.php\r\n\r\nIf you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.\r\nhttps://wordpress.org/support/\r\n\r\nKeeping your site updated is important for security. It also makes the internet a safer place for you and your readers.\r\n\r\nThe WordPress Team\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
