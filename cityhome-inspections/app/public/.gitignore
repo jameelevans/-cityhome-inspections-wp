@@ -1,9 +1,0 @@
-*.log
-wp-content/plugins/hello.php
-wp-content/themes/cityhome-inspections/node_modules
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
-/local.php
