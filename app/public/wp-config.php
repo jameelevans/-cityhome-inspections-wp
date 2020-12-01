@@ -27,9 +27,9 @@ if (file_exists(dirname(__FILE__) . '/local.php')) {
 	define( 'DB_HOST', 'localhost' );
 } else {
 	//live database settings
-	define( 'DB_NAME', 'cityhomedata' );
-	define( 'DB_USER', 'JDawan469x' );
-	define( 'DB_PASSWORD', 'REtaw46924x' );
+	define( 'DB_NAME', 'local' );
+	define( 'DB_USER', 'root' );
+	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', 'localhost' );
 }
 
